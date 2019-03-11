@@ -1,6 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+# requirements - 
+# pip install selenium
+
 # change these fields - url, filename, width (defaulted to 1366)
 
 url = 'https://www.google.com'
